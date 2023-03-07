@@ -17,8 +17,8 @@
 
 <div>
   <a href="https://github.com/gabrielvgo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvgo&layout=compact&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielvgo&show_icons=true&theme=radical" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvgo&layout=compact&theme=radical" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielvgo&show_icons=true&theme=radical" />
   </a>
 </div>
 
