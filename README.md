@@ -1,6 +1,6 @@
 ## E aí? Eu sou o Gabriel Oliveira 👋
 
-- 🔭 Hoje trabalho com projetos de TI
+- 🔭 Atualmente trabalho com projetos de TI
 - 🌱 Estudando Kotlin para Mobile
 
 <div style="display: inline_block"><br>
