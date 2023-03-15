@@ -1,7 +1,7 @@
 ## E aí? Eu sou o Gabriel Oliveira 👋
 
 - 🔭 Atualmente trabalho com projetos de TI
-- 🌱 Estudando Kotlin para Mobile
+- 🌱 Estudando Kotlin para desenvolvimento mobile
 
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
