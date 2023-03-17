@@ -1,4 +1,4 @@
-## E aí? Eu sou o Gabriel Oliveira 👋
+## Bem-vindo! Eu sou o Gabriel Oliveira 👋
 
 - 🔭 Atualmente trabalho com projetos de TI
 - 🌱 Estudando Kotlin para desenvolvimento mobile
